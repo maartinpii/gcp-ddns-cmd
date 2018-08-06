@@ -1,5 +1,5 @@
 
-## Dynamic DNS using Apache Libcloud
+## Dynamic DNS as a remote command using Apache Libcloud
 Simple implementation of DDNS for GCP based developed in python.
 
 Core Components:
